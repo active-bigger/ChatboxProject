@@ -10,3 +10,9 @@
 - **操作系统**：支持主流操作系统，如 Windows、macOS 和 Linux。
 - **依赖软件**：需要安装 Python 环境以及 Ollama 平台和 Streamlit 库。
 - **硬件要求**：推荐配置较高的处理器和足够的内存，以确保模型的高效运行和良好的用户体验。
+
+## 项目安装与运行
+- **项目启动**：在src目录下输入：streamlit run chat_main.py
+
+## 项目界面显示效果展示
+![image](/src/img/img.png)
